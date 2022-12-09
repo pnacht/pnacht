@@ -31,13 +31,13 @@ I'm part of a GOSST sub-team responsible for working hand-in-hand with the open-
 community. We focus on helping individual [critical projects][critical-projects]
 increase their security. Our goals are to:
 
-- develop specific approaches for each project.
+- develop specific approaches for each project;
 - suggest solutions or enhancements that fit the project's needs and don't overburden
-maintainers.
+maintainers;
 - talk with maintainers about our suggestion or about any other solutions they might
-prefer.
-- implement the changes and submit them as PRs
-- collect all feedback to be shared with the rest of GOSST and the OpenSSF
+prefer;
+- implement the changes and submit them as PRs;
+- collect all feedback to be shared with the rest of GOSST and the OpenSSF.
 
 Security Solutions
 ------------------
@@ -50,10 +50,10 @@ and suggest improvements as needed;
 provenance, guaranteeing it comes from the expected location and process. This aims to
 prevent tampering and improve the integrity of infrastructure and consumed packages;
 - [Sigstore][sigstore]: keyless signing and verification of artifacts;
-- [OSS-FUZZ][oss-fuzz]: automated [fuzzing][fuzzing] at scale
+- [OSS-FUZZ][oss-fuzz]: automated [fuzzing][fuzzing] at scale;
 - [OSV][osv]: a human- and machine-readable database of vulnerabilities that
-maps affected software versions across open source ecosystems
-- [GUAC][guac]: graph database of security metadata ([in development][guac-gh])
+maps affected software versions across open source ecosystems;
+- [GUAC][guac]: graph database of security metadata ([in development][guac-gh]).
 
 
 [cerne]: https://www.cerneengenharia.com/
