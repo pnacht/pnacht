@@ -44,7 +44,7 @@ Security Solutions
 
 See below some of the tools developed by GOSST and the OpenSSF:
 
-- [Scorecards][scorecards]: automated checks to evaluate a project's security practices
+- [Scorecard][scorecard]: automated checks to evaluate a project's security practices
 and suggest improvements as needed;
 - [SLSA][slsa] (pronounced "salsa"): a standard and protocol to ensure an artifact's
 provenance, guaranteeing it comes from the expected location and process. This aims to
@@ -65,7 +65,7 @@ maps affected software versions across open source ecosystems;
 [nch]: https://nchbrasil.com.br/
 [ossf]: https://openssf.org/
 [open-source-at-google]: https://opensource.googleblog.com/2021/08/metrics-spikes-and-uncertainty-open-source-contribution-during-a-global-pandemic.html
-[scorecards]: https://securityscorecards.dev/
+[scorecard]: https://securityscorecards.dev/
 [sigstore]: https://www.sigstore.dev/
 [slsa]: https://slsa.dev/
 [sonatype]: https://www.sonatype.com/resources/state-of-the-software-supply-chain-2021
